@@ -1,0 +1,94 @@
+{
+  "admins": [
+    {
+      "name": "mayank",
+      "email": "mayank11@gmail.com",
+      "password": "1111",
+      "cpass": "1111",
+      "gender": "male",
+      "hobby": "Reading,music,cycling",
+      "city": "vadodara",
+      "image": "g-4.jpeg",
+      "id": 1
+    },
+    {
+      "name": "jay",
+      "email": "jay@gmail.com",
+      "password": "1111",
+      "gender": "male",
+      "hobby": "Reading,music",
+      "city": "Rajkot",
+      "image": "g-4.jpeg",
+      "id": 2
+    },
+    {
+      "name": "jivan",
+      "email": "j@gmail.com",
+      "password": "1111",
+      "gender": "male",
+      "hobby": "Reading,cycling",
+      "city": "Surat",
+      "image": "aida-batres-_QxzSVWesm0-unsplash.jpg",
+      "id": 3
+    },
+    {
+      "name": "jay",
+      "email": "jay12@gmail.com",
+      "password": "3350",
+      "cpass": "3350",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "category": "Mens",
+      "id": 1
+    },
+    {
+      "category": "Womens",
+      "id": 2
+    },
+    {
+      "category": "Electornics",
+      "id": 3
+    },
+    {
+      "category": "Mobiles",
+      "id": 4
+    }
+    ,
+    {
+      "category": "mayank",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "category": "Mens",
+      "title": "Men Slim Fit Solid Spread Collar Formal Shirt",
+      "price": "₹413",
+      "oprice": "₹1,599",
+      "description": "Slay your daily style in this piece from Stoneberg. It is sure to get you several compliments and make you look chic as ever. This casual shirt made from cotton fabric. It exibited full sleeves and Slim collar. Pair it with shoes and a sleek watch to complete the look. Machine wash this with similar color.",
+      "image": "https://rukminim1.flixcart.com/image/832/832/l3t2fm80/shirt/l/0/4/xxl-r-petal-pink-stoneberg-original-imageum8qmynhwnz.jpeg?q=70",
+      "id": 1
+    },
+    {
+      "category": "Mens",
+      "title": "Men Color Block Polo Neck Yellow T-Shirt",
+      "price": "₹498",
+      "oprice": "₹1299",
+      "description": "Slay your daily style in this piece from Stoneberg. It is sure to get you several compliments and make you look chic as ever. This casual shirt made from cotton fabric. It exibited full sleeves and Slim collar. Pair it with shoes and a sleek watch to complete the look. Machine wash this with similar color.",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/s/c/s/s-gt-4-dyrectdeals-original-imagmg9x3wackb7a.jpeg?q=70",
+      "id": 2
+    },
+    {
+      "category": "Womens",
+      "title": "Printed, Geometric Print, Embellished Bhagalpuri Silk Blend, Cotton Silk Saree  (Green, Pink)",
+      "price": "₹289",
+      "oprice": "₹1564",
+      "description": "",
+      "image": "https://rukminim1.flixcart.com/image/832/832/l4ln8nk0/sari/p/2/u/free-2535s934-samah-unstitched-original-imagfgq7pc2mc4vz.jpeg?q=70",
+      "id": 3
+    }
+  ]
+}

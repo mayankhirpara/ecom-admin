@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "json-server": "^0.17.3",
+    "tostify": "^0.0.1"
+  }
+}
